@@ -1,16 +1,14 @@
 # An Interactive Photo Gallery 
 
-For this project, I had to create an interactive photo gallery using JavaScript and jQuery. Thumbnails and photos were provided with descriptions for me to implement as project material. At the top of the page, I had to include a search area where photos hide and show depending on user input. When the user clicks on a thumbnail, the photo will display in a lightbox. The photo gallery also needed to consist of back and previous arrows to allow the user to cycle through the photos. 
+* Developed an interactive photo gallery using JavaScript and jQuery, enabling dynamic user interaction and real-time content filtering
+* Implemented a live search feature to filter images based on user input, improving usability and content discoverability
+* Built a custom lightbox functionality to display full-size images with navigation controls, enhancing the user experience
+* Added next/previous navigation controls to allow seamless browsing of images within the gallery
+* Wrote custom JavaScript and jQuery logic instead of relying on third-party plugins, demonstrating strong problem-solving and coding skills
+* Designed the gallery using a mobile-first approach, ensuring responsiveness across various screen sizes with CSS media queries
+* Conducted cross-browser testing to ensure consistent functionality across Chrome, Firefox, and Microsoft Edge
+* Delivered a solution that met advanced requirements and exceeded project expectations
 
-I went for the Exceeds Expectations Grading where I had to: 
-
-1. Write my own JavaScript and jQuery code instead of using a jQuery plugin for the search/content filtering requirement.
-2. Include a mobile-first approach for both the gallery page and the lightbox, by utilising media queries to ensure that photos and layouts adjust for a mobile-friendly experience. 
-
-Browsers tested for compatibility: 
-
-1. Chrome
-2. Firefox
-3. Edge
+Technologies: HTML, CSS, JavaScript, jQuery
 
 Grade: Meets Expectations
